@@ -1,2 +1,2 @@
 # Infinite-Coin-Challenge-Java
-Done to make all change possibilities for a value with peenies, nickels, dimes and/or quarters
+Code made to find all change possibilities for a given value utilizing peenies, nickels, dimes and/or quarters
